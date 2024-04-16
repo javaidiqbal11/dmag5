@@ -71,3 +71,6 @@ Now copy output_0.png from `er9b/main/test/Irfan` directory and copy `disp1.png`
 Open https://depthplayer.ugocapeto.com/ in Browser, and select `output_0.png` and in `disp1.png` respectively and hit create model.
 It will generate 3d image for you.
 
+### Technical Analysis
+Test cases for the test images performed and updates with their technical analysis. 
+
