@@ -1,0 +1,6 @@
+left_20200511-forest-0030.png
+center_20200511-forest-0030.png
+outleft_20200511-forest-0030.png
+outcenter_20200511-forest-0030.png
+10000
+10000.0
